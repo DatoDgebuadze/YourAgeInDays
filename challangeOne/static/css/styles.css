@@ -1,0 +1,26 @@
+.con-1{
+    border: 1px solid black;
+}
+.button {
+    background-color: #327cb5; /* light blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.flex-box-con-1{
+      border: 1px solid black;
+      display: flex;
+      padding: 10px;
+      flex-wrap: wrap;
+      justify-content: space-around;
+}
+
+.flex-box-con-1 div {
+    padding: 10px;
+    border: 1px solid black;
+}
